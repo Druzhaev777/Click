@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">catsCounter</string>
+    <string name="txt_cats">коты</string>
+    <string name="btn_cats">Добавить кота</string>
+</resources>
